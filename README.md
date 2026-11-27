@@ -7,6 +7,7 @@ Most of my work lives in private company repositories, so I write it up instead:
 - **Monorepo for 4 frontends** with pnpm Workspace + Turborepo and shared packages
 - **LMS performance**: page load 15.2s → 6.1s, Lighthouse 29 → 65+
 - **In-house editor on Tiptap** to replace a per-user licensed editor
+- **Payoo POS payment integration on NestJS**: orders, IPN, reconciliation, HubSpot and SAP sync
 - **AWS → CMC Cloud migration** of dev servers, GitLab and a production database
 - **AppSec in CI**: Gitleaks, Trivy, Semgrep, OWASP ZAP
 
