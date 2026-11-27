@@ -11,8 +11,8 @@ Most of my work lives in private company repositories, so I write it up instead:
 - **AWS → CMC Cloud migration** of dev servers, GitLab and a production database
 - **AppSec in CI**: Gitleaks, Trivy, Semgrep, OWASP ZAP
 
-Case studies (in Vietnamese): https://lengocha.vercel.app/writing
+Case studies (in Vietnamese, with English summaries): https://lengocha.vercel.app/en/writing
 
 **Stack:** React · Next.js · TypeScript · NestJS · Spring Boot · PostgreSQL · Turborepo · Docker · GitLab CI/CD · AWS
 
-**Contact:** [Portfolio](https://lengocha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ng%E1%BB%8Dc-h%C3%A0-l%C3%AA-886aa3228/)
+**Contact:** [Portfolio](https://lengocha.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/ng%E1%BB%8Dc-h%C3%A0-l%C3%AA-886aa3228/)
